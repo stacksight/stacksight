@@ -4,7 +4,6 @@ Stacksight provides a centralized view
 
 # Event types
 
-|key|Drupal|Wordpress|mean|meteor|meanjs|magento|moodle|
-|User||||||||
-|Taxonomy||||||||
-|Content||||||||
+1. User
+1. Taxonomy
+1. Content
